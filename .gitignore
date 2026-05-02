@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+asoiu.ipynb
+*.xlsx
+*.csv
+*.zip
+*.data
+Untitled.ipynb
