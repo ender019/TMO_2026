@@ -5,9 +5,14 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "gmdh>=1.0.3",
+    "gplearn>=0.4.3",
     "jupyter>=1.1.1",
     "openpyxl>=3.1.5",
     "pandas>=3.0.2",
     "scikit-learn>=1.8.0",
     "seaborn>=0.13.2",
+    "statsmodels>=0.14.6",
+    "streamlit>=1.57.0",
+    "sympy>=1.14.0",
 ]
